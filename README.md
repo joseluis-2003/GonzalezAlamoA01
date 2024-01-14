@@ -20,6 +20,8 @@ La cuarta sección presenta dos filas de cajas de colores en un contenedor amari
 ## Nivel 5: Contenido Repetido con Flex
 La quinta sección replica el contenido del cuarto nivel. En esta ocasión, el diseño se realiza utilizando el widget Expanded con diferentes valores de flex para una distribución proporcional del espacio.
 
+https://github.com/joseluis-2003/GonzalezAlamoA01/blob/c5b6b335e28d57ad996ec8c71bf6815e770c5176/foto.png
+
 
 
 
